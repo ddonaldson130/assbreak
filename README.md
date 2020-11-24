@@ -4,7 +4,10 @@
 
 A tool that helps brute-force a website.
 
+The youtube video is available on this [link](https://youtu.be/0ZIxBSaNOJQ).
+
 **ANY FRAUDULENT USE IS NOT THE FAULT OF THE ONE WHO PROGRAMS IT, BUT OF THE ONE WHO USES IT FOR ILLEGAL PURPOSES.**
+
 
 ## How to install
 
@@ -14,7 +17,7 @@ You need to install [chromedriver](https://chromedriver.chromium.org) and when y
 How to put chromedriver in the path :
 
 ```
-Control Panel > System and Security > System > Advanced System Settings > Environment Variable > System Variable > New > Path > C:/path/
+Control Panel > System and Security > System > Advanced System Settings > Environment Variable > System Variable > New > Path > /path/chromedriver.exe
 ```
 
 And to check if it is well installed, run the command prompt (cmd) and write : 
@@ -91,5 +94,4 @@ You will not see chrome however you will be able to see the logs.
 ## How do I get a password dictionary ?
 
 I will put a small password dictionary of about 111kb on the download link BUT you can download a big 14.5gb one on se [link](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm) (torrent).
-
 
